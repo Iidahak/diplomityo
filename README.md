@@ -1,6 +1,6 @@
 # Master's Thesis
 
-Source code for my MSc thesis on "Tree species classification using phenological patterns in multitemporal Sentinel-2 data under class imbalance.
+Source code for my MSc thesis on "Tree species classification using phenological patterns in multitemporal Sentinel-2 data under class imbalance".
 
 Abstract: 
 
